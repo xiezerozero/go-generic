@@ -1,3 +1,3 @@
-module github.com/xiezero/go-generic
+module github.com/xiezerozero/go-generic
 
 go 1.18
